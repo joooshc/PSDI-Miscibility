@@ -1,0 +1,11 @@
+PCA_components,Model,MSE,R2,RMSE,MAE,Best Params
+2,1,0.6004016008799066,-18.839813468992908,0.7748558581309859,0.3736675074832986,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 50}"
+2,2,0.5403849264773648,-14.853359051981984,0.7351087854714871,0.2926621021259032,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 100}"
+2,3,1.8514502145848302,-80.12879718786847,1.3606800559223429,0.5657266034315614,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 100}"
+2,4,1.9906351450687676,-86.2277491920254,1.410898701207414,0.6229911036562317,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 100}"
+2,5,0.14033197925931076,-3.18815843242946,0.37460910194402747,0.20372408318872073,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 200}"
+2,6,2.713539365578956,-52.359543707882,1.6472824182813814,0.6035189533741633,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 100}"
+2,7,0.6419112134198883,-20.211466990163537,0.8011936179350708,0.36215130634591275,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 50}"
+2,8,0.07615855349369154,-1.2212192079784385,0.2759683922004321,0.16488333257972101,"{'max_depth': None, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 10}"
+2,9,0.19203725824740808,-5.082726240153696,0.4382205589054535,0.20512800901574,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 10, 'n_estimators': 10}"
+2,10,0.05484860896223978,-1.0449837576125192,0.2341977987988781,0.13570535895159633,"{'max_depth': 10, 'max_features': 'sqrt', 'min_samples_split': 2, 'n_estimators': 50}"
