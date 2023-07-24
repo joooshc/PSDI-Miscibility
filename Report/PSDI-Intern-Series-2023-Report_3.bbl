@@ -1,0 +1,171 @@
+\begin{thebibliography}{10}
+
+\bibitem{1991223}
+Smolková-Keulemansová E, Feltl L, editors. Chapter 10 - Gas chromatography.
+  Elsevier; 1991.
+\newblock Available from: \url{doi.org/10.1016/S0166-526X(05)80100-X}.
+
+\bibitem{iupac}
+{International Union of Pure and Applied Chemistry}. SOLUBILITY DATA SERIES;
+  2023.
+\newblock Available from:
+  \url{https://iupac.org/what-we-do/databases/solubility-data-series/}.
+
+\bibitem{ritonavir}
+Bauer J, Spanton S, Henry R, Quick J, Dziki W, Porter W, et~al.
+\newblock Ritonavir: An Extraordinary Example of Conformational Polymorphism.
+\newblock Pharmaceutical Research. 2001:859–866.
+\newblock Available from: \url{https://doi.org/10.1023/A:1011052932607}.
+
+\bibitem{ritonavir2}
+Rzepa H. Ritonavir: a look at a famous example of conformational polymorphism;
+  2017.
+\newblock Available from:
+  \url{https://www.ch.imperial.ac.uk/rzepa/blog/?p=17333}.
+
+\bibitem{ritonavir3}
+Neumann MA, van~de Streek J.
+\newblock How many ritonavir cases are there still out there?
+\newblock Faraday Discuss. 2018:441–458.
+\newblock Available from: \url{DOI https://doi.org/10.1039/C8FD00069G}.
+
+\bibitem{PubChem}
+PubChem;.
+\newblock Available from: \url{https://pubchem.ncbi.nlm.nih.gov/}.
+
+\bibitem{PubChemPy}
+Swain M. PubChemPy;.
+\newblock Available from: \url{https://github.com/mcs07/PubChemPy}.
+
+\bibitem{CIRpy}
+Swain M. CIRpy;.
+\newblock Available from: \url{https://cirpy.readthedocs.io/en/latest/}.
+
+\bibitem{RDKit}
+Multiple. RDKit;.
+\newblock Available from: \url{https://github.com/rdkit/rdkit}.
+
+\bibitem{sklearn}
+Multiple. Sci-Kit Learn;.
+\newblock Available from: \url{https://github.com/scikit-learn/scikit-learn}.
+
+\bibitem{pca}
+Li L. Principal Component Analysis for Dimensionality Reduction; 2019.
+\newblock Website.
+\newblock Available from:
+  \url{https://towardsdatascience.com/principal-component-analysis-for-dimensionality-reduction-115a3d157bad}.
+
+\bibitem{montecarlo}
+Shan G, editor. Monte Carlo cross-validation for a study with binary outcome
+  and limited sample size. BMC; 2022.
+\newblock Available from: \url{doi.org/10.1186/s12911-022-02016-z}.
+
+\bibitem{kfold}
+Gunjal S. Tutorial: K Fold Cross Validation; 2020.
+\newblock Available from:
+  \url{https://www.kaggle.com/code/satishgunjal/tutorial-k-fold-cross-validation}.
+
+\bibitem{mse}
+Stewart K. mean squared error; 2023.
+\newblock Website.
+\newblock Available from:
+  \url{https://www.britannica.com/science/mean-squared-error}.
+
+\bibitem{r2}
+Multiple. Coefficient of Determination; 2023.
+\newblock Website.
+\newblock Available from:
+  \url{https://web.archive.org/web/20230724090737/https://en.wikipedia.org/wiki/Coefficient_of_determination}.
+
+\bibitem{pls1}
+Ng KS. A Simple Explanation of Partial Least Squares;.
+\newblock Available from: \url{http://users.cecs.anu.edu.au/~kee/pls.pdf}.
+
+\bibitem{pls2}
+statsoftsa. Partial Least Squares; 2012.
+\newblock Website.
+\newblock Available from:
+  \url{https://statisticasoftware.wordpress.com/2012/08/23/partial-least-squares-pls/}.
+
+\bibitem{nipals}
+Wright K. The NIPALS algorithm; 2017.
+\newblock Website.
+\newblock Available from:
+  \url{https://cran.r-project.org/web/packages/nipals/vignettes/nipals_algorithm.html}.
+
+\bibitem{ols}
+Ong D. Ordinary Least Squares Derivation; 2022.
+\newblock Website.
+\newblock Available from:
+  \url{https://desmond-ong.github.io/stats-notes/ordinary-least-squares-regression.html#ordinary-least-squares-derivation}.
+
+\bibitem{lasso}
+{PennState Eberly College of Science}. 5.4 - The Lasso;.
+\newblock Website.
+\newblock Available from:
+  \url{https://online.stat.psu.edu/stat508/lesson/5/5.4}.
+
+\bibitem{elastic}
+MathWorks. Lasso and Elastic Net;.
+\newblock Available from:
+  \url{https://www.mathworks.com/help/stats/lasso-and-elastic-net.html}.
+
+\bibitem{poly}
+Gavrilova Y. Introduction to Polynomial Regression Analysis; 2021.
+\newblock Website.
+\newblock Available from:
+  \url{https://serokell.io/blog/polynomial-regression-analysis}.
+
+\bibitem{randomforest}
+geeksforgeeks. Random Forest Regression in Python; 2023.
+\newblock Available from:
+  \url{https://www.geeksforgeeks.org/random-forest-regression-in-python/}.
+
+\bibitem{gradboost}
+Elith J, Leathwick JR, Hastie T.
+\newblock A working guide to boosted regression trees.
+\newblock Journal of Animal Ecology. 2008;77.
+\newblock Available from: \url{doi.org/10.1111/j.1365-2656.2008.01390.x}.
+
+\bibitem{catboost}
+akshisaxena. CatBoost in Machine Learning; n.d.
+\newblock Website.
+\newblock Available from: \url{https://www.geeksforgeeks.org/catboost-ml/}.
+
+\bibitem{DNN1}
+Anderson A. Artificial Neural Networks for Regression; 2021.
+\newblock Available from:
+  \url{https://www.kaggle.com/code/abrahamanderson/artificial-neural-networks-for-regression}.
+
+\bibitem{DNN2}
+Raj R. Activation Function for Hidden Layers in Neural Networks; 2023.
+\newblock Available from:
+  \url{https://www.enjoyalgorithms.com/blog/activation-function-for-hidden-layers-in-neural-networks}.
+
+\bibitem{sigma}
+{Sigma Aldrich}. Solvent Miscibility Table; 2023.
+\newblock Available from:
+  \url{https://www.sigmaaldrich.com/GB/en/technical-documents/technical-article/analytical-chemistry/purification/solvent-miscibility-table}.
+
+\bibitem{oversampling}
+Galli S, Lemaitre G. 2. Over-sampling; 2014-2023.
+\newblock Available from:
+  \url{https://imbalanced-learn.org/stable/over_sampling.html}.
+
+\bibitem{ucst}
+IUPAC.
+\newblock Compendium of Chemical Terminology, the "Gold Book".
+\newblock 2nd ed. McNaught AD, Wilkinson A, editors. Blackwell Scientific
+  Publications, Oxford (1997); 2014.
+\newblock Available from: \url{doi.org/10.1351/goldbook}.
+
+\bibitem{atkins}
+Atkins P, {de Paula} J, Keeler J.
+\newblock Atkins' Physical Chemistry.
+\newblock 11th ed. Oxford University Press; 2018.
+
+\bibitem{matplotlib}
+Hunter J, Dale D, Firing E, Droettboom M. Matplotlib;.
+\newblock Available from: \url{https://github.com/matplotlib/matplotlib}.
+
+\end{thebibliography}

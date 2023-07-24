@@ -1,0 +1,116 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: PSDI-Intern-Series-2023-Report_3.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+The style file: vancouver.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Database file #1: References.bib
+Warning--empty author in 1991223
+Warning--empty author and editor in iupac
+Warning--missing publisher in iupac
+Warning--empty author and editor in ritonavir2
+Warning--missing publisher in ritonavir2
+Warning--empty author in PubChem
+Warning--empty author and editor in PubChem
+Warning--missing publisher in PubChem
+Warning--there's a month but no year in PubChem
+Warning--empty author and editor in PubChemPy
+Warning--missing publisher in PubChemPy
+Warning--there's a month but no year in PubChemPy
+Warning--empty author and editor in CIRpy
+Warning--missing publisher in CIRpy
+Warning--there's a month but no year in CIRpy
+Warning--empty author and editor in RDKit
+Warning--missing publisher in RDKit
+Warning--there's a month but no year in RDKit
+Warning--empty author and editor in sklearn
+Warning--missing publisher in sklearn
+Warning--there's a month but no year in sklearn
+Warning--empty author and editor in pca
+Warning--missing publisher in pca
+Warning--empty author in montecarlo
+Warning--empty author and editor in kfold
+Warning--missing publisher in kfold
+Warning--empty author and editor in mse
+Warning--missing publisher in mse
+Warning--empty author and editor in r2
+Warning--missing publisher in r2
+Warning--empty author and editor in pls1
+Warning--missing publisher in pls1
+Warning--there's a month but no year in pls1
+Warning--empty author and editor in pls2
+Warning--missing publisher in pls2
+Warning--empty author and editor in nipals
+Warning--missing publisher in nipals
+Warning--empty author and editor in ols
+Warning--missing publisher in ols
+Warning--empty author and editor in lasso
+Warning--missing publisher in lasso
+Warning--there's a month but no year in lasso
+Warning--empty author and editor in elastic
+Warning--missing publisher in elastic
+Warning--there's a month but no year in elastic
+Warning--empty author and editor in poly
+Warning--missing publisher in poly
+Warning--empty author and editor in randomforest
+Warning--missing publisher in randomforest
+Warning--empty author and editor in catboost
+Warning--missing publisher in catboost
+Warning--empty author and editor in DNN1
+Warning--missing publisher in DNN1
+Warning--empty author and editor in DNN2
+Warning--missing publisher in DNN2
+Warning--empty author and editor in sigma
+Warning--missing publisher in sigma
+Warning--empty author and editor in oversampling
+Warning--missing publisher in oversampling
+Warning--can't use both author and editor fields in ucst
+Warning--empty author and editor in matplotlib
+Warning--missing publisher in matplotlib
+Warning--there's a month but no year in matplotlib
+You've used 32 entries,
+            3507 wiz_defined-function locations,
+            851 strings with 8987 characters,
+and the built_in function-call counts, 25428 in all, are:
+= -- 2867
+> -- 234
+< -- 47
++ -- 108
+- -- 49
+* -- 1827
+:= -- 2930
+add.period$ -- 87
+call.type$ -- 32
+change.case$ -- 4
+chr.to.int$ -- 123
+cite$ -- 95
+duplicate$ -- 2137
+empty$ -- 2580
+format.name$ -- 57
+if$ -- 6042
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 217
+newline$ -- 149
+num.names$ -- 35
+pop$ -- 605
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 581
+stack$ -- 0
+substring$ -- 3537
+swap$ -- 462
+text.length$ -- 8
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 63
+while$ -- 157
+width$ -- 34
+write$ -- 328
+(There were 63 warnings)
